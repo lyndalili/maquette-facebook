@@ -235,6 +235,7 @@ right: 35%;
     display: flex;
     padding-bottom: 10px;
     padding-top: 10px;
+    background: red;
 }
 
 .fichierss{
